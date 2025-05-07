@@ -40,7 +40,7 @@ import matplotlib.pyplot as plt
 
 img1=np.zeros((300,600),dtype='uint8')
 font=cv2.FONT_ITALIC
-img2=cv2.putText(img1,"sai",(5,100),font,3,(255,0,0),5,cv2.LINE_AA)
+img2=cv2.putText(img1,"SIVAKUMAR R",(5,100),font,3,(255,0,0),5,cv2.LINE_AA)
 cv2.imshow("Original",img2)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
@@ -63,16 +63,16 @@ cv2.destroyAllWindows()
 ## Output:
 
 ### Display the input Image
-![WhatsApp Image 2025-05-04 at 14 37 59_66b10cd8](https://github.com/user-attachments/assets/447c2458-4504-4e61-89fb-da4df98e81ca)
+![WhatsApp Image 2025-05-07 at 15 19 25_d97284f2](https://github.com/user-attachments/assets/5e80e79e-400d-421e-a5f8-4a12caff71ff)
 
 
 
 
 ### Display the result of Opening
-![WhatsApp Image 2025-05-04 at 14 38 13_db2fd5f6](https://github.com/user-attachments/assets/e4ce8ebf-2000-463d-b843-ce677ee001f1)
+![WhatsApp Image 2025-05-07 at 15 19 25_3652e543](https://github.com/user-attachments/assets/72853dae-6301-4314-8c33-08cf9c724a7d)
 
 ### Display the result of Closing
-![WhatsApp Image 2025-05-04 at 14 38 26_51924e56](https://github.com/user-attachments/assets/f89827f2-7e60-4c9d-9b28-b2a729fd7f8d)
+![WhatsApp Image 2025-05-07 at 15 19 25_28ac54eb](https://github.com/user-attachments/assets/88861b4d-4605-453b-9df3-6eb105c0478d)
 
 
 
